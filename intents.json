@@ -1,0 +1,57 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good day", "Greetings"],
+        "responses": ["Hello! How can Robofied assist you today?", "Hi there! What services can we help you with?"]
+      },
+      {
+        "tag": "services",
+        "patterns": ["What services do you offer?", "Tell me about your services", "What can you do?"],
+        "responses": [
+          "Robofied offers a range of services including Web Development, Designing, Cloud Computing in AWS, IoT solutions, Social Media Marketing, and AI/ML solutions."
+        ]
+      },
+      {
+        "tag": "web_development",
+        "patterns": ["Do you provide web development?", "Tell me about your web development services"],
+        "responses": ["Yes, we offer professional web development services including frontend, backend, and full-stack development with modern frameworks."]
+      },
+      {
+        "tag": "designing",
+        "patterns": ["Do you offer designing?", "What kind of designing services do you offer?"],
+        "responses": ["Our designing services include UI/UX design, graphic design, and branding solutions tailored to your business needs."]
+      },
+      {
+        "tag": "cloud_computing",
+        "patterns": ["Do you offer cloud services?", "Tell me about your cloud computing expertise"],
+        "responses": ["Robofied specializes in Cloud Computing solutions using AWS for scalable, secure, and efficient cloud architectures."]
+      },
+      {
+        "tag": "iot",
+        "patterns": ["Do you work with IoT?", "Tell me about your IoT solutions"],
+        "responses": ["Yes, we provide end-to-end IoT solutions including hardware integration, data management, and real-time analytics."]
+      },
+      {
+        "tag": "social_media_marketing",
+        "patterns": ["Do you offer social media marketing?", "Tell me about your social media services"],
+        "responses": ["We offer complete social media marketing services including campaign management, content creation, and audience analytics."]
+      },
+      {
+        "tag": "ai_ml",
+        "patterns": ["Do you offer AI services?", "Tell me about your AI and ML services"],
+        "responses": ["Yes, Robofied specializes in AI and ML solutions including predictive modeling, data analysis, and custom AI solutions."]
+      },
+      {
+        "tag": "contact",
+        "patterns": ["How can I contact you?", "Provide your contact details", "Reach out to you"],
+        "responses": ["You can contact us through our official website or reach out via email at contact@robofied.com."]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later"],
+        "responses": ["Goodbye! Feel free to reach out anytime you need our services."]
+      }
+    ]
+  }
+  
