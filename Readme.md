@@ -99,7 +99,7 @@ Optimizing the ML model
 
 📞 Contact
 
-Developer Name: Muhammad Arhum Naeem
-Email: engr.arhumnaeem@gmail.com
-Hire Me: https://www.upwork.com/freelancers/~01a323f7488996ce0d
+Developer Name: Muhammad Arhum Naeem <br>
+Email: engr.arhumnaeem@gmail.com <br>
+Hire Me: https://www.upwork.com/freelancers/~01a323f7488996ce0d <br>
 LinkedIn Profile: https://www.linkedin.com/in/me-arhumnaeem
